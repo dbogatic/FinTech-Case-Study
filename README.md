@@ -2,7 +2,8 @@
 
 ## Rice-Boot-Camp-Project
 
-![Elevate](./Images/Elevate_Logo.jpeg)
+![Elevate](./images/Elevate_Logo.jpg)
+
 
 
 
