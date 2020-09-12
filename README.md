@@ -1,2 +1,2 @@
-# FinTech-Case-Study-Elevate_Credit
+# FinTech-Case-Study-Elevate-Credit
 Projects for Rice FinTech Bootcamp 
