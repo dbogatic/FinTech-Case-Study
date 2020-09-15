@@ -21,16 +21,16 @@
 
 * Elevate was established under its current name as a spinoff from [Think Finance, Inc.](https://en.wikipedia.org/wiki/Think_Finance) in 2014.
 
-* Elevate HQ is located in Fort Worth, TX. Current address: 4150 International Plaza, Ste. 300, Fort Worth, TX 76109.
+* The company is located in Fort Worth, TX. Current address: 4150 International Plaza, Ste. 300, Fort Worth, TX 76109.
 
 * Elevate is a publicly traded company [NYSE: ELVT](https://finance.yahoo.com/quote/ELVT/).
 The President and CEO of the company is Jason Harvison. Other company executives can be found [here](https://www.elevate.com/company.html).
 
-* Elevate was founded with the idea to reinvent the non-prime lending idustry by giving a growing ["New Middle Class"](https://www.newmiddleclass.org/our-mission/#nmc) access to responsible and transparent online credit options.
+* The company was founded with the idea to reinvent the non-prime lending idustry by giving a growing ["New Middle Class"](https://www.newmiddleclass.org/our-mission/#nmc) access to responsible and transparent online credit options.
 
 * Elevate markets to its customers in US and UK the four main online credit programs: [Rise](https://www.risecredit.com/), [Elastic](https://www.elastic.com/), [Sunny](https://sunny.co.uk/) (UK only) and [Today](https://www.todaycard.com/apply/findmyoffer). 
 
-* Elevate receives debt financing for its Rise and Sunny loans from Victory Park Management, an affiliate of [Victory Park Capital](https://www.victoryparkcapital.com/). Funding for the Elastic lines of credit comes from [Republic Bank](https://www.republicbank.com/home/home), a third-party lender that uses Elevate’s software.
+* The company receives debt financing for its Rise and Sunny loans from Victory Park Management, an affiliate of [Victory Park Capital](https://www.victoryparkcapital.com/). Funding for the Elastic lines of credit comes from [Republic Bank](https://www.republicbank.com/home/home), a third-party lender that uses Elevate’s software.
 
 * As of December 31, 2019, Elevate serves more than 2.4 million customers with $8.1 billion in credit. (this includes originations and customers from 2002- December 31, 2019 from both current and predecessor products). 
 #
@@ -74,9 +74,9 @@ provision as a percentage of revenues to continue to remain within the establish
 
 * Elevate currently provides only personal loan solutions to non-prime customers. A successful utilization of their proprietary data analytics methodology, combined with years of non-prime lending experience their management has, creates more opportunities in other lending segments, such as mortgage and vehicle lending.
 
-* Developing further data analytics methodolygy and improving loan underwriting processes would have a goal to identify among existing customers those that would qualify for the additional loan options.
+* Developing further its data analytics methodolygy and improving loan underwriting processes would have a goal to identify among existing customers those that would qualify for the additional loan options.
 
-* Entering the mortgage and vehicle lending industry segment would lead to diversification of their existing loan portfolio, increase in revenues, as a result of a better borrower quality as well as lower default rate. Additionally, a part of the portfolio would now be secured with real assets. 
+* Entering the mortgage and vehicle lending industry segments would lead to diversification of their existing loan portfolio, increase in revenues, as a result of a better borrower quality as well as lower default rate. Additionally, a part of the portfolio would now be secured with real assets. 
 
 * Elevate's core belief is that their lending solutions will ultimately have a positive impact on the financial position of non-prime borrowers. It is logical then that this newly created class of better quality non-prime borrowers from the pool of existing customers be offered an affordable access to non-prime mortgage and vehicle lending options, without hidden and punitive fees.
 
