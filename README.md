@@ -26,7 +26,7 @@
 * Elevate is a publicly traded company [NYSE: ELVT](https://finance.yahoo.com/quote/ELVT/).
 The President and CEO of the company is Jason Harvison. Other company executives can be found [here](https://www.elevate.com/company.html).
 
-* The company was founded with the idea to reinvent the non-prime lending idustry by giving a growing ["New Middle Class"](https://www.newmiddleclass.org/our-mission/#nmc) access to responsible and transparent online credit options.
+* The company was founded with the idea to reinvent the non-prime lending industry by giving a growing ["New Middle Class"](https://www.newmiddleclass.org/our-mission/#nmc) access to responsible and transparent online credit options.
 
 * Elevate markets to its customers in US and UK the four main online credit programs: [Rise](https://www.risecredit.com/), [Elastic](https://www.elastic.com/), [Sunny](https://sunny.co.uk/) (UK only) and [Today](https://www.todaycard.com/apply/findmyoffer). 
 
@@ -42,7 +42,7 @@ The President and CEO of the company is Jason Harvison. Other company executives
 
 * Elevate recognized a big business opportunity through unmet non-prime lending needs which amounts to about $143 billion. 
 
-* The company developed a sofisticated data driven risk-based pricing model called [Segment Optimized Analytics](https://www.elevate.com/products.html?hashtag-analytics) that focuses primarily on non-prime credit industry. The model analyzes non-prime segment uzing traditional and machine learning techniques. This analysis includes credit scores, fraud scores and affordability assessment. It also performs algoritmic verifications to detect potential fraud. The company uses a vast array of data sources, while complying with applicable lending laws. As a result of their proprietary technology and risk analytics, over 90% of loan applications are fully automated with no manual review required. 
+* The company developed a sophisticated data driven risk-based pricing model called [Segment Optimized Analytics](https://www.elevate.com/products.html?hashtag-analytics) that focuses primarily on non-prime credit industry. The model analyzes non-prime segment using traditional and machine learning techniques. This analysis includes credit scores, fraud scores and affordability assessment. It also performs algorithmic verifications to detect potential fraud. The company uses a vast array of data sources, while complying with applicable lending laws. As a result of their proprietary technology and risk analytics, over 90% of loan applications are fully automated with no manual review required. 
 #
 
 ## Landscape
@@ -74,7 +74,7 @@ provision as a percentage of revenues to continue to remain within the establish
 
 * Elevate currently provides only personal loan solutions to non-prime customers. A successful utilization of their proprietary data analytics methodology, combined with years of non-prime lending experience their management has, creates more opportunities in other lending segments, such as mortgage and vehicle lending.
 
-* Developing further its data analytics methodolygy and improving loan underwriting processes would have a goal to identify among existing customers those that would qualify for the additional loan options.
+* Developing further its data analytics methodology and improving loan underwriting processes would have a goal to identify among existing customers those that would qualify for the additional loan options.
 
 * Entering the mortgage and vehicle lending industry segments would lead to diversification of their existing loan portfolio, increase in revenues, as a result of a better borrower quality as well as lower default rate. Additionally, a part of the portfolio would now be secured with real assets. 
 
